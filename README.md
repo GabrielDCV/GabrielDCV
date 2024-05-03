@@ -1,2 +1,2 @@
-## Computer Science Student at CESAR School
-#### Currently trying to improve in Data Area, my goal is to learn at maximum.
+## CS Student at CESAR School | Data Scientist Apprentice
+#### Currently trying to improve in Deep Learning & IA Generative.
